@@ -1,0 +1,22 @@
+{
+    "name": "portfolio",
+    "version": "1.0.0",
+    "description": "testing out github pages",
+    "main": "index.js",
+    "scripts": {
+        "deploy": "gh-pages -d ./"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Pvag/myportfolio.git"
+    },
+    "author": "Paolo",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Pvag/myportfolio/issues"
+    },
+    "homepage": "https://github.com/Pvag/myportfolio#readme",
+    "dependencies": {
+        "gh-pages": "^2.2.0"
+    }
+}
